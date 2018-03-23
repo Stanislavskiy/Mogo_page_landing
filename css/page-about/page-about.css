@@ -1,0 +1,43 @@
+.page-about {
+  display: block;
+  height: 1000px;
+  color: #333333;
+}
+
+.page-about__description {
+  display: block;
+  margin-top: 47px;
+  font-size: 15px;
+  color: #999999;
+  text-align: center;
+}
+
+.page-about__title {
+  margin-top: 90px;
+}
+
+.page-about__pictures {
+  margin-top: 100px;
+
+  /* For .page-about__picture_offset */
+  position: relative;
+}
+
+.page-about__picture {
+  padding-left: 24px;
+}
+
+.page-about__picture:first-of-type {
+  padding-left: 0px;
+}
+
+.page-about__picture_offset {
+  position: relative;
+  bottom: 10px;
+  right: 10px;
+  box-shadow: 10px 10px 0px #95e1d3;
+}
+
+.page-about__numbers {
+  margin-top: 110px;
+}

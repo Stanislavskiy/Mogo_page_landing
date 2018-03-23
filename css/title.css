@@ -1,0 +1,22 @@
+.title {
+  text-align: center;
+}
+
+.title__display-text {
+  display: block;
+  font-size: 24px;
+}
+
+.title__bold-text {
+  display: block;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.title__line {
+  display: block;
+  width: 60px;
+  margin: 0 auto;
+  margin-top: 40px;
+  border-bottom: 3px solid #f38181;
+}

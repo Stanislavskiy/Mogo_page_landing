@@ -1,0 +1,17 @@
+.header {
+    display: block;
+    width: 100%;
+}
+
+.header__menu {
+    text-align: right;
+    margin-top: 40px;
+    float: right;
+    bottom: -10px;
+}
+
+.header__brand {
+    display: inline-block;
+    font-size: 30px;
+    margin-top: 28px;
+}
