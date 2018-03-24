@@ -12,12 +12,8 @@
   text-align: center;
 }
 
-.page-about__title {
-  margin-top: 90px;
-}
-
 .page-about__pictures {
-  margin-top: 100px;
+  margin-top: 96px;
 
   /* For .page-about__picture_offset */
   position: relative;
@@ -39,5 +35,5 @@
 }
 
 .page-about__numbers {
-  margin-top: 110px;
+  margin-top: 105px;
 }

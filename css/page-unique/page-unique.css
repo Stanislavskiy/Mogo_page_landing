@@ -1,0 +1,6 @@
+.page-unique {
+    display: block;
+    height: 1000px;
+    color: #333333;
+    background: url('bg.jpg') no-repeat;
+}
