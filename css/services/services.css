@@ -1,0 +1,43 @@
+.services{
+    display: block;
+}
+
+.services__item {
+    display: inline-block;
+    width: 333px;
+    height: 69px;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.services__image {
+    float: left;
+    vertical-align: top;
+    margin-right: 28px;
+    margin-bottom: 37px ;
+}
+
+.services__title {
+    display: inline-block;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #333333;
+    width: 100%;
+}
+
+.services__description {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 24px;
+    color: #999999;
+    width: 273px;
+}
+
+.services__line {
+    display: block;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #e5e5e5;
+}
