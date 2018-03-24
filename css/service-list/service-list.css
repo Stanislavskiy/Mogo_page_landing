@@ -1,0 +1,44 @@
+.service-list {
+    display: block;
+}
+
+.service-list__service {
+    box-sizing: border-box;
+    display: block;
+    overflow: hidden;
+    height: 60px;
+    margin-bottom: 10px;
+    border: 1px solid #e5e5e5;
+}
+
+.service-list__service:hover{
+    height: auto;
+    max-height: 240px;
+}
+
+.service-list__header {
+    display: flex;
+    font-size: 14px;
+    align-items: center;
+    padding: 15px;
+}
+
+.service-list__image {
+    margin-right: 15px
+}
+
+.service-list__line-separator {
+    display: block;
+    width: 100%;
+    border-top: 1px solid #e5e5e5;}
+
+.service-list__description {
+    display: block;
+    margin: 20px;
+    padding-right: 25px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #999999;
+    max-height: 132px;
+    overflow: auto;
+}

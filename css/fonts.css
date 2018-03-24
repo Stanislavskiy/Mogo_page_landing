@@ -20,3 +20,9 @@
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
 }
+
+.description-italic-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}

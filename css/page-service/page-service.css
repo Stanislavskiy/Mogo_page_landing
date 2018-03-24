@@ -1,0 +1,26 @@
+.page-service {
+    display: block;
+    height: 900px;
+    color: #333333;
+}
+
+.page-service__description {
+    display: block;
+    margin-top: 47px;
+    font-size: 15px;
+    color: #999999;
+    text-align: center;
+}
+
+.page-service__title {
+    padding-top: 17px;
+}
+
+.page-service__image {
+    text-align: right;
+}
+
+.page-service__col-1 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
