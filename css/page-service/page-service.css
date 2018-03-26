@@ -1,6 +1,6 @@
 .page-service {
     display: block;
-    height: 900px;
+    height: 1095px;
     color: #333333;
 }
 
@@ -21,15 +21,20 @@
 }
 
 .page-service__col-1 {
+    display: block;
+    margin-top: 92px;
     padding-left: 15px;
     padding-right: 15px;
 }
 
+.page-service__items {
+    display: block;
+}
+
 .page-service__quote {
     display: inline-block;
-    clear: both;
     margin-top: 120px;
     background: #f8f8f8;
     height: 290px;
     width: 100%;
-}   
+}

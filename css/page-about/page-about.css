@@ -14,24 +14,6 @@
 
 .page-about__pictures {
   margin-top: 96px;
-
-  /* For .page-about__picture_offset */
-  position: relative;
-}
-
-.page-about__picture {
-  padding-left: 24px;
-}
-
-.page-about__picture:first-of-type {
-  padding-left: 0px;
-}
-
-.page-about__picture_offset {
-  position: relative;
-  bottom: 10px;
-  right: 10px;
-  box-shadow: 10px 10px 0px #95e1d3;
 }
 
 .page-about__numbers {

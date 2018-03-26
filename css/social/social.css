@@ -1,0 +1,19 @@
+.social-facebook {
+    -webkit-mask: url('facebook.svg') no-repeat 50% 50% ;
+    mask-image: url('facebook.svg') no-repeat 50% 50%;
+}
+
+.social-twitter {
+    -webkit-mask: url('twitter.svg') no-repeat 50% 50% ;
+    mask-image: url('twitter.svg') no-repeat 50% 50%;
+}
+
+.social-instagram {
+    -webkit-mask: url('instagram.svg') no-repeat 50% 50% ;
+    mask-image: url('instagram.svg') no-repeat 50% 50%;
+}
+
+.social-pinterest {
+    -webkit-mask: url('pinterest.svg') no-repeat 50% 50% ;
+    mask-image: url('pinterest.svg') no-repeat 50% 50%;
+}
