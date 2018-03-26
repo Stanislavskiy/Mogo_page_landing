@@ -9,14 +9,18 @@
     height: 60px;
     margin-bottom: 10px;
     border: 1px solid #e5e5e5;
-    background: url('arrow-down.png') no-repeat center right 20px;
+    
     -webkit-transition: height 0.1s ease-in;
     transition: height 0.1s ease-in;
+    transition-delay: 0.3s;
+}
+
+.service-list__service:last-of-type {
+    margin-bottom: 0px;
 }
 
 .service-list__service:hover{
     height: 240px;
-    background: url('arrow-up.png') no-repeat top 20px right 20px;
 }
 
 .service-list__header {
@@ -24,6 +28,15 @@
     font-size: 14px;
     align-items: center;
     padding: 15px;
+    background: url('arrow-down.png') no-repeat center right 20px;
+    
+    -webkit-transition: background 0.1s ease-in;
+    transition: background 0.1s ease-in;
+    transition-delay: 0.3s;
+}
+
+.service-list__header:hover {
+    background: url('arrow-up.png') no-repeat top 20px right 20px;
 }
 
 .service-list__image {
