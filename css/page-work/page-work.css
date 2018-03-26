@@ -1,0 +1,42 @@
+.page-work {
+    display: block;
+    height: 281px;
+    color: #333333;
+}
+
+.page-work__description {
+    display: block;
+    margin-top: 46px;
+    font-size: 15px;
+    color: #999999;
+    text-align: center;
+}
+
+.page-work__works {
+    display: block;
+    margin-top: 102px;
+}
+
+.page-work__works-4{
+    display: block;
+    width: 960px;
+    float: left;
+}
+
+.page-work__works-2 {
+    display: block;
+    width: 480px;
+    float: left;
+} 
+
+.page-work__image {
+    display: block;
+    float: left;
+}
+
+.page-work__quote {
+    display: inline-block;
+    margin-top: 80px;
+    height: 290px;
+    width: 100%;
+}
