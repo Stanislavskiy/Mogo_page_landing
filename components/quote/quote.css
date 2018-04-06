@@ -1,0 +1,43 @@
+.quote {
+    display: block;
+    width: 100%;
+    height: 290px;
+    background: url('arrow-left.png') no-repeat center left 25px, url('arrow-right.png') no-repeat center right 25px;
+}
+
+.quote__image {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 70px 60px 70px 110px;
+}
+
+.quote__description {
+    display: block;
+    float: right;
+    margin-top: 70px;
+    margin-right: 110px;
+    width: 767px;
+    font-size: 24px;
+    color: #999999;
+    line-height: 36px;
+}
+
+.quote__autor {
+    display: block;
+    margin-top: 10px;
+    line-height: 23px;
+}
+
+.quote__line {
+    display: inline-block;
+    width: 60px;
+    border-top: 3px solid #f38181;
+    vertical-align: middle;
+}
+
+.quote__autor-name {
+    display: inline-block;
+    color: #333333;
+    font-size: 24px;
+}

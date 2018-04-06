@@ -1,0 +1,19 @@
+.map {
+  display: block;
+  background: url('bg.jpg');
+  height: 200px;
+  color: #f38181;
+  font-size: 24px;
+  text-align: center;
+}
+
+.map__pin {
+  margin-top: 57px;
+  margin-bottom: 18px;
+}
+
+.map__line {
+  display: inline-block;
+  width: 60px;
+  border-bottom: 3px solid #f38181;
+}

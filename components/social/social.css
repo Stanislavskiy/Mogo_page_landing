@@ -1,0 +1,39 @@
+.social__facebook {
+    -webkit-mask: url('facebook.svg') no-repeat 50% 50% ;
+    mask-image: url('facebook.svg') no-repeat 50% 50%;
+}
+
+.social__twitter {
+    -webkit-mask: url('twitter.svg') no-repeat 50% 50% ;
+    mask-image: url('twitter.svg') no-repeat 50% 50%;
+}
+
+.social__instagram {
+    -webkit-mask: url('instagram.svg') no-repeat 50% 50% ;
+    mask-image: url('instagram.svg') no-repeat 50% 50%;
+}
+
+.social__pinterest {
+    -webkit-mask: url('pinterest.svg') no-repeat 50% 50% ;
+    mask-image: url('pinterest.svg') no-repeat 50% 50%;
+}
+
+.social__dribble {
+    -webkit-mask: url('dribble.svg') no-repeat 50% 50% ;
+    mask-image: url('dribble.svg') no-repeat 50% 50%;
+}
+
+.social__youtube {
+    -webkit-mask: url('youtube.svg') no-repeat 50% 50% ;
+    mask-image: url('youtube.svg') no-repeat 50% 50%;
+}
+
+.social__google {
+    -webkit-mask: url('google.svg') no-repeat 50% 50% ;
+    mask-image: url('google.svg') no-repeat 50% 50%;
+}
+
+.social__tumblr {
+    -webkit-mask: url('tumblr.svg') no-repeat 50% 50% ;
+    mask-image: url('tumblr.svg') no-repeat 50% 50%;
+}

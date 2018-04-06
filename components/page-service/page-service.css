@@ -1,0 +1,41 @@
+.page-service {
+  display: block;
+  height: 1090px;
+  color: #333333;
+}
+
+.page-service__description {
+  display: block;
+  margin-top: 47px;
+  font-size: 15px;
+  color: #999999;
+  text-align: center;
+}
+
+.page-service__title {
+  padding-top: 17px;
+}
+
+.page-service__image {
+  text-align: right;
+}
+
+.page-service__col-1 {
+  display: block;
+  margin-top: 92px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.page-service__items {
+  display: block;
+  margin-top: 92px;
+}
+
+.page-service__quote {
+  display: inline-block;
+  margin-top: 120px;
+  background: #f8f8f8;
+  height: 290px;
+  width: 100%;
+}

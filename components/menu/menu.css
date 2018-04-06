@@ -1,0 +1,27 @@
+.menu {
+  display: block;
+  font-size: 14px;
+}
+
+.menu__link {
+  margin-left: 50px;
+  text-decoration: none;
+  vertical-align: middle;
+  padding-bottom: 10px;
+  color: #fff;
+}
+
+.menu__link:first-of-type {
+  margin-left: 0px;
+}
+
+.menu__link:hover {
+  color: #fce38a;
+  border-bottom: 3px solid #fce38a;
+}
+
+.menu__img {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+}

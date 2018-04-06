@@ -1,0 +1,152 @@
+.page-footer {
+  height: 560px;
+  background: #f8f8f8;
+}
+
+.page-footer__description {
+  width: 480px;
+  display: block;
+  float: left;
+  margin-top: 62px;
+}
+
+.page-footer__brand {
+  font-size: 34px;
+  color: #cccccc;
+}
+
+.page-footer__description-text {
+  margin-top: 42px;
+  line-height: 24px;
+  font-size: 15px;
+  color: #999999;
+}
+
+.page-footer__followers {
+  display: block;
+  margin-top: 49px;
+  font-size: 15px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.page-footer__follow {
+  margin-top: 16px;
+  font-size: 15px;
+  color: #999999;
+}
+
+.page-footer__social {
+  display: inline-block;
+  margin-left: 16px;
+  width: 17px;
+  height: 17px;
+  vertical-align: middle;
+  background-color: #95e1d3;
+  mask-size:contain;
+  -webkit-mask-size: contain;
+}
+
+.page-footer__subscribe {
+  margin-top: 39px;
+}
+
+.page-footer__input {
+  box-sizing: border-box;
+  width: 230px;
+  height: 40px;
+  font-size: 15px;
+  border: 1px solid #e7e7e7;
+  padding-left: 13px;
+  padding-right: 13px;
+  color: #cccccc;
+}
+
+.page-footer__subscribe-button {
+  box-sizing: border-box;
+  margin-left: -4px;
+  border: 0;
+  width: 150px;
+  height: 40px;
+  font-size: 14px;
+  color: #fff;
+  background: #95e1d3;
+}
+
+.page-footer__blogs {
+  display: block;
+  float: left;
+  width: 340px;
+  box-sizing: border-box;
+  margin-left: 29px;
+  margin-top: 75px;
+}
+
+.page-footer__title {
+  display: block;
+  font-size: 14px;
+}
+
+.page-footer__blog {
+  display: inline-block;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.page-footer__blog-image {
+  display: block;
+  float: left;
+}
+
+.page-footer__blog-description {
+  text-transform: uppercase;
+  display: inline-block;
+  box-sizing: border-box;
+  width: 220px;
+  font-size: 12px;
+  padding: 15px 0px 0px 20px;
+  line-height: 18px;
+}
+
+.page-footer__blog-date {
+  text-transform: none;
+  font-size: 13px;
+  margin-top: 5px;
+}
+
+.page-footer__instagram {
+  display: inline-block;
+  box-sizing: border-box;
+  float: left;
+  margin-top: 80px;
+  width: 273px;
+  margin-left: 78px;
+}
+
+.page-footer__inst {
+  margin-top: 40px;
+}
+
+.page-footer_margin_15 {
+  margin-bottom: 15px;
+}
+
+.page-footer__inst-description {
+  display: inline-block;
+  margin-top: 13px;
+  font-size: 13px;
+}
+
+.page-footer__copyright {
+  display: inline-block;
+  width: 100%;
+  margin-top: 70px;
+  font-size: 14px;
+  text-align: center;
+  border-top: 1px solid #e5e5e5;
+  padding-top: 20px;
+}
+
+.page-footer_color_red {
+   color: #f38181;
+}

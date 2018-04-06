@@ -1,0 +1,21 @@
+.page-about {
+  display: block;
+  height: 1000px;
+  color: #333333;
+}
+
+.page-about__description {
+  display: block;
+  margin-top: 47px;
+  font-size: 15px;
+  color: #999999;
+  text-align: center;
+}
+
+.page-about__pictures {
+  margin-top: 96px;
+}
+
+.page-about__numbers {
+  margin-top: 105px;
+}

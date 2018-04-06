@@ -1,0 +1,19 @@
+.page-unique {
+    display: block;
+    position: relative;
+    height: 941px;
+    color: #333333;
+    background: url('bg.jpg') no-repeat;
+}
+
+.page-unique__ipad {
+  position: absolute;
+  bottom: 91px;
+  left: 655px;
+}
+
+.page-unique__iphone {
+  position: absolute;
+  bottom: 0px;
+  left: 1064px;
+}

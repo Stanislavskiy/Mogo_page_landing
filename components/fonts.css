@@ -1,0 +1,28 @@
+.bold-text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+.regular-text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+.light-text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+
+.display-text {
+  font-family: "Kaushan Script", cursive;
+}
+
+.description-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.description-italic-text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}

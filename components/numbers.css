@@ -1,0 +1,34 @@
+.numbers {
+    display: block;
+    background: #95e1d3;
+    height: 270px;
+    color: #fff;
+}
+
+.number-container {
+    display: block;
+    float: left;
+    width: 238px;
+    height: 300px;
+    border-left: 1px solid #fff;
+}
+
+.number_border {
+    border-right: 1px solid #fff;
+}
+
+.number__digit {
+    display: block;
+    margin-top: 89px;
+    text-align: center;
+    font-size: 72px;
+    line-height: 1;
+}
+
+.number__text {
+    display: block;
+    line-height: 1;
+    font-size: 14px;
+    margin-top: 30px;
+    text-align: center
+}
